@@ -92,7 +92,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-text
+
 
 ### 4️⃣ Set Environment Variables
 
